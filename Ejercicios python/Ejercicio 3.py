@@ -14,7 +14,7 @@ class Datos:
         # usuario[3] = 'Simon Bolivar'
         # lISTAS
         materias = []
-        materias = ['Programacion', '', 'POO']
+        materias = ['Programacion', 'POO']
         materias[1] = 'Python'
         materias.append('Go')
         # DICCIONARIOS
